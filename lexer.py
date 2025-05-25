@@ -1,4 +1,6 @@
-import ply.lex as lex
+git remote add origin https://github.com/shreyapaithani/compiler.git
+git branch -M main
+git push -u origin mainimport ply.lex as lex
 
 # List of token names
 tokens = [
